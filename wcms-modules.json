@@ -6,6 +6,7 @@
             "repo": "https://github.com/robiso/summernote-lite-editor/tree/main",
             "zip": "https://github.com/robiso/summernote-lite-editor/archive/main.zip",
             "summary": "Adds a framework-agnostic (Summernote Lite) WYSIWYG editor to all content editable fields.",
+            "group": "editor",
             "version": "3.6.0",
             "image": "https://raw.githubusercontent.com/robiso/summernote-lite-editor/main/preview.jpg"
         }
